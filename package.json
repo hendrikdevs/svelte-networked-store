@@ -11,5 +11,8 @@
     "Typescript"
   ],
   "author": "Hendrik Eisenblätter",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "svelte": "^3.49.0"
+  }
 }
