@@ -1,0 +1,15 @@
+{
+  "name": "svelte-networked-store",
+  "version": "0.1.0",
+  "description": "The SvelteNetworkedStore provides a custom svelte stores that allows you to fetch ressources and handle an internal state (loading, fetched, error, ...).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Svelte",
+    "Typescript"
+  ],
+  "author": "Hendrik Eisenblätter",
+  "license": "ISC"
+}
