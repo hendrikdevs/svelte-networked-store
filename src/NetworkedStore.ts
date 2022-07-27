@@ -82,7 +82,7 @@ export class NetworkedStoreStrict<T> {
                 return n;
             });
         }
-        else {  // Fetch unsuccessful -> Set Status to NetworkError.
+        else {  // Fetch unsuccessful -> Set status to NetworkError.
             this.update(n => {
                 n.status = StoreNetworkStatus.NetworkError;
                 return n;
